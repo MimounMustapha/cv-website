@@ -2,7 +2,7 @@
 
 #### Technical Skills: Python, SQL, Tableau, PowerBI
 
-## 📜 CERTIFICATES
+## 📜 Certificates
 
 ### [Advanced Data Analysis Nanodegree - Udacity](https://confirm.udacity.com/AKTCERKS).
 
