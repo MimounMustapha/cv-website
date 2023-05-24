@@ -6,14 +6,12 @@ B.S., Computer Science and Artificial Intelligence | Cairo University
 (_SEPT2017 - May 2021_)
 
 ## Projects
-### SuperStore Dashboard
-[Link](https://public.tableau.com/app/profile/ahmidaziz/viz/PerformanceOverview_16843287339820/Dashboard1)
+### SuperStore Dashboard [Link](https://public.tableau.com/app/profile/ahmidaziz/viz/PerformanceOverview_16843287339820/Dashboard1)
 This dashboard provides a high-level overview of the store's performance, as well as detailed insights into specific aspects of the business using stacked bar charts, line charts, heatmaps, etc.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### A/B test on a new webpage 
-[Link](https://github.com/AhmidAziz/ab-test-on-new-webpage/blob/main/ab%20testing%20on%20new%20webpage%20project.ipynb)
+### A/B test on a new webpage [Link](https://github.com/AhmidAziz/ab-test-on-new-webpage/blob/main/ab%20testing%20on%20new%20webpage%20project.ipynb)
 Conducted an A/B testing project to optimize website conversion rates and analyzed the results of the experiment and identified the winning page. Multiple libraries are used such as numpy, pandas, maplotlib, and statsmodels.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
