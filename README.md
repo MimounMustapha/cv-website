@@ -9,7 +9,7 @@ B.S., Computer Science and Artificial Intelligence | Cairo University
 ### Advanced Data Analysis Nanodegree - Udacity  [Link](https://confirm.udacity.com/AKTCERKS)
 - Obtained valuable experience in data analysis and visualization.
 - Gained proficiency in using statistical methods and tools such as Python, SQL, and Tableau.
-### Data Visualization in Tableau - Cartona Academy   [Link]([https://confirm.udacity.com/AKTCERKS](https://bit.ly/cartonaCertificate))
+### Data Visualization in Tableau - Cartona Academy   [Link]([https://confirm.udacity.com/AKTCERKS](https://bit.ly/cartonaCertificate)
 - Cartona is one of the fastest-growing B2B e-commerce marketplaces in Egypt.
 - Gained real-life experience from experts in the food industry.
 
