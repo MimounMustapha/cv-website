@@ -1,5 +1,5 @@
 # Ahmed Aziz
-## Jr. Data Scientist
+## Ahmed Azizzz
 
 #### Technical Skills: Python, SQL, R
 
