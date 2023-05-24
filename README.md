@@ -2,7 +2,7 @@
 
 #### Technical Skills: Python, SQL, AWS
 ## Education
-- B.S., Computer Science and Artificial Intelligence | Cairo University (_May 2021)
+B.S., Computer Science and Artificial Intelligence | Cairo University (_May 2021)
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
