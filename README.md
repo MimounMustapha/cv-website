@@ -5,7 +5,7 @@
 B.S., Computer Science and Artificial Intelligence | Cairo University 
 (_SEPT2017 - May 2021_)
 
-## CERTIFICATES
+## 📜 CERTIFICATES
 
 ### [Advanced Data Analysis Nanodegree - Udacity](https://confirm.udacity.com/AKTCERKS).
 
@@ -16,7 +16,7 @@ B.S., Computer Science and Artificial Intelligence | Cairo University
 - Cartona is one of the fastest-growing B2B e-commerce marketplaces in Egypt.
 - Gained real-life experience from experts in the food industry.
 
-## Projects
+## 📊 Projects
 ### [SuperStore Dashboard](https://public.tableau.com/app/profile/ahmidaziz/viz/PerformanceOverview_16843287339820/Dashboard1)
 This dashboard provides a high-level overview of the store's performance, as well as detailed insights into specific aspects of the business using stacked bar charts, line charts, heatmaps, etc.
 
@@ -27,7 +27,7 @@ Conducted an A/B testing project to optimize website conversion rates and analyz
 ### Soccer Database Investigation - Exploratory Data Analysis Project
 Asked reasonable questions and answered them with data. Many technologies have been used in this project such as Python, SQL, EDA, and data wrangling techniques.
 
-## Work Experience
+## 💼 Work Experience
 **Marketing Analyst / Senior Content Creator @ Arabhardware**
 
 (_SEPT2017 - FEB2022_)
