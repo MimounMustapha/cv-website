@@ -1,9 +1,6 @@
-# Data Scientist
+# Jr. Data Scientist
 
 #### Technical Skills: Python, SQL, AWS
-## Education
-B.S., Computer Science and Artificial Intelligence | Cairo University 
-(_SEPT2017 - May 2021_)
 
 ## 📜 CERTIFICATES
 
@@ -26,6 +23,10 @@ Conducted an A/B testing project to optimize website conversion rates and analyz
 
 ### Soccer Database Investigation - Exploratory Data Analysis Project
 Asked reasonable questions and answered them with data. Many technologies have been used in this project such as Python, SQL, EDA, and data wrangling techniques.
+
+## 🎓 Education
+B.S., Computer Science and Artificial Intelligence | Cairo University 
+(_SEPT2017 - May 2021_)
 
 ## 💼 Work Experience
 **Marketing Analyst / Senior Content Creator @ Arabhardware**
