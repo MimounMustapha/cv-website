@@ -1,6 +1,6 @@
 # Jr. Data Scientist
 
-#### Technical Skills: Python, SQL, AWS
+#### Technical Skills: Python, SQL, Tableau, PowerBI
 
 ## 📜 CERTIFICATES
 
