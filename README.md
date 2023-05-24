@@ -29,6 +29,7 @@ Asked reasonable questions and answered them with data. Many technologies have b
 
 ## Work Experience
 **Marketing Analyst / Senior Content Creator @ Arabhardware**
+
 (_SEPT2017 - FEB2022_)
 - Led and executed successful marketing campaigns with a data-driven mindset to analyze these campaigns .
 - The exposure led to new opportunities with industry leaders and clients (Huawei, INTEL, MCIT, and many more)
