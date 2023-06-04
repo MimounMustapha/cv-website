@@ -1,4 +1,4 @@
-# Jr. Data Scientist
+# Jr. Data Analyst
 
 #### Technical Skills: Python, SQL, Tableau, PowerBI
 
