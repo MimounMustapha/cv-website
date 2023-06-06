@@ -26,7 +26,9 @@ Asked reasonable questions and answered them with data. Many technologies have b
 
 ## 🎓 Education
 B.S., Computer Science and Artificial Intelligence | Cairo University 
+
 **GPA 3.25/4.0**
+
 (_SEPT2017 - May 2021_)
 
 ## 💼 Work Experience
