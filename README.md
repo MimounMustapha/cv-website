@@ -38,10 +38,4 @@ B.S., Computer Science and Artificial Intelligence | Cairo University (_SEPT2017
 - Led and executed successful marketing campaigns with a data-driven mindset to analyze these campaigns .
 - The exposure led to new opportunities with industry leaders and clients (Huawei, INTEL, MCIT, and many more)
 
-[Link 1](https://www.youtube.com/watch?v=v96XQ_7PD7s&t=96s)
-
-[Link 2](https://youtu.be/4ebh5jclCc4)
-
-[Link 3](https://youtu.be/iVBwJGFYnqk)
-
-[Link 4](https://youtu.be/h4vhk1ypxoE?t=1060)
+[Link 1](https://www.youtube.com/watch?v=v96XQ_7PD7s&t=96s)  | [Link 2](https://youtu.be/4ebh5jclCc4)   |   [Link 3](https://youtu.be/iVBwJGFYnqk)   |   [Link 4](https://youtu.be/h4vhk1ypxoE?t=1060)
