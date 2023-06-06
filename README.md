@@ -26,12 +26,14 @@ Asked reasonable questions and answered them with data. Many technologies have b
 
 ## 🎓 Education
 B.S., Computer Science and Artificial Intelligence | Cairo University 
+**GPA 3.25/4.0**
 (_SEPT2017 - May 2021_)
 
 ## 💼 Work Experience
 **Marketing Analyst / Senior Content Creator @ Arabhardware**
 
-(_SEPT2017 - FEB2022_)
+(_SEPT2017 - MAY2022_)
+- Achieved +14M views and +700k likes on social media platforms through data-driven content strategies.
 - Led and executed successful marketing campaigns with a data-driven mindset to analyze these campaigns .
 - The exposure led to new opportunities with industry leaders and clients (Huawei, INTEL, MCIT, and many more)
 
