@@ -25,11 +25,10 @@ Conducted an A/B testing project to optimize website conversion rates and analyz
 Asked reasonable questions and answered them with data. Many technologies have been used in this project such as Python, SQL, EDA, and data wrangling techniques.
 
 ## 🎓 Education
-B.S., Computer Science and Artificial Intelligence | Cairo University 
+B.S., Computer Science and Artificial Intelligence | Cairo University (_SEPT2017 - May 2021_)
 
 **GPA 3.25/4.0**
 
-(_SEPT2017 - May 2021_)
 
 ## 💼 Work Experience
 **Marketing Analyst / Senior Content Creator @ Arabhardware**
@@ -38,4 +37,7 @@ B.S., Computer Science and Artificial Intelligence | Cairo University
 - Achieved +14M views and +700k likes on social media platforms through data-driven content strategies.
 - Led and executed successful marketing campaigns with a data-driven mindset to analyze these campaigns .
 - The exposure led to new opportunities with industry leaders and clients (Huawei, INTEL, MCIT, and many more)
-
+[Link 1](https://www.youtube.com/watch?v=v96XQ_7PD7s&t=96s))
+[Link 2](https://youtu.be/4ebh5jclCc4)
+[Link 3](https://youtu.be/iVBwJGFYnqk)
+[Link 4](https://youtu.be/h4vhk1ypxoE?t=1060)
