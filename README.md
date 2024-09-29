@@ -4,7 +4,7 @@
 
 ## 💼 Work Experience
 
-** Re-seller @Mahfoud Auto Parts Store**
+**Re-seller @Mahfoud Auto Parts Store**
 
 (_Auto Parts re-seller for 4 years_)
 
@@ -105,13 +105,13 @@ DevCrafters is DEV COMPANY
 
 Certificate in the basics of digital marketing after completing all the courses of the program and passing the test with success
 
-### [PMP - Coursera ]
-- Microsoft Project Management Certificat Professionnel
+### PMP - Coursera 
+ Microsoft Project Management Certificat Professionnel
 
-### [CS50 - Online Harvard University ]
+### CS50 - Online Harvard University 
 An introduction to the intellectual enterprises of computer science and the art of programming.
 
-### [MSSCE - Online Microsoft coursers ]
+### MSSCE - Online Microsoft coursers 
 Data Management & Analytics
 
 ## 📊 Projects
