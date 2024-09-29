@@ -115,15 +115,13 @@ An introduction to the intellectual enterprises of computer science and the art 
 Data Management & Analytics
 
 ## 📊 Projects
-### [SuperStore Dashboard](https://public.tableau.com/app/profile/ahmidaziz/viz/PerformanceOverview_16843287339820/Dashboard1)
-This dashboard provides a high-level overview of the store's performance, as well as detailed insights into specific aspects of the business using stacked bar charts, line charts, heatmaps, etc.
+### Accreditation Platforme 
+It is a platform for registering people and issuing their accreditations used in sports, cultural and economic events
 
 
-### [A/B test on a new webpage](https://github.com/AhmidAziz/ab-test-on-new-webpage/blob/main/ab%20testing%20on%20new%20webpage%20project.ipynb)
-Conducted an A/B testing project to optimize website conversion rates and analyzed the results of the experiment and identified the winning page. Multiple libraries are used such as numpy, pandas, maplotlib, and statsmodels.
+### Voting Calculate
+electronic platform is used to calculate the percentage of participants in the electoral process
 
-### Soccer Database Investigation - Exploratory Data Analysis Project
-Asked reasonable questions and answered them with data. Many technologies have been used in this project such as Python, SQL, EDA, and data wrangling techniques.
 
 ## 🎓 Education
  Literature and philosophy   | **BACCALAUREATE DEGREE** |  Abdelmajid Meziane High School | ORAN,ALGERIA  (2020)
