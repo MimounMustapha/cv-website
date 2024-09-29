@@ -74,7 +74,7 @@
 
 
 
-  **Support Staff @40th edition og the men's and women's african club cup 2024 (HANDBALL)**
+  **Support Staff @40th edition of the men's and women's african club cup 2024 (HANDBALL)**
 
 -Support Staff 
 
@@ -124,10 +124,10 @@ electronic platform is used to calculate the percentage of participants in the e
 
 
 #### 🎓 Education
- Literature and philosophy   | **BACCALAUREATE DEGREE** |  Abdelmajid Meziane High School | ORAN,ALGERIA  (2020)
+ Literature and philosophy   | BACCALAUREATE DEGREE |  Abdelmajid Meziane High School | ORAN,ALGERIA  (2020)
 
 
- Law | **BACHELOR'S DEGREE** | University of Oran 2     |  ORAN,ALGERIA (2023)
+ Law | BACHELOR'S DEGREE| University of Oran 2     |  ORAN,ALGERIA (2023)
 
 
 **GPA 3.1/4.0**
