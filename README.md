@@ -3,6 +3,7 @@
 #### Technical Skills: Python, SQL, Tableau, Web Design 
 
 ## 💼 Work Experience
+
 **Re-seller @Mahfoud Auto Parts Store**
 
 (_Auto Parts re-seller for 4 years_)
@@ -21,6 +22,54 @@
 - Troubleshooting hardware and software issues
 
 (_ 15/04/2022 - 15/07/2022 _) 
+
+**Support Staff @African Nations Championship**
+
+-Support Staff Commission Accredititation
+
+- Provided technical support to staff and visitors
+- Troubleshooting hardware and software issues
+- Supervised a team of admnistrative Staff
+- Providing guidance support to ensure successful completion of tasks
+
+  (_ 12/11/2022 - 06/02/2023 _) 
+
+
+**Support Staff @Arabic Games 2023**
+
+-Support Staff Commission Accredititation
+
+- Provided technical support to staff and visitors
+- Troubleshooting hardware and software issues
+- Supervised a team of admnistrative Staff
+- Providing guidance support to ensure successful completion of tasks
+
+  (_ 15/06/2022 - 28/07/2023 _)
+
+
+  **Support Staff @31st edition of the african super cup 2024 (HANDBALL)**
+
+-Support Staff 
+
+- Provided technical support to staff and visitors
+- Troubleshooting hardware and software issues
+- Supervised a team of admnistrative Staff
+- Providing guidance support to ensure successful completion of tasks
+
+  (_ 2024 _)
+
+
+   **Support Staff @40th edition og the men's and women's african club cup 2024 (HANDBALL)**
+
+-Support Staff 
+
+- Provided technical support to staff and visitors
+- Troubleshooting hardware and software issues
+- Supervised a team of admnistrative Staff
+- Providing guidance support to ensure successful completion of tasks
+
+  (_ 2024 _)
+
   
 
 
