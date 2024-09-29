@@ -126,9 +126,9 @@ Conducted an A/B testing project to optimize website conversion rates and analyz
 Asked reasonable questions and answered them with data. Many technologies have been used in this project such as Python, SQL, EDA, and data wrangling techniques.
 
 ## 🎓 Education
- Literature and philosophy | **BACCALAUREATE DEGREE** |  Abdelmajid Meziane High School | ORAN,ALGERIA  (2020)
+ Literature and philosophy   | **BACCALAUREATE DEGREE** |  Abdelmajid Meziane High School | ORAN,ALGERIA  (2020)
 
- Law | **BACHELOR'S DEGREE** | University of Oran 2 | ORAN,ALGERIA (2023)
+ Law | **BACHELOR'S DEGREE** | University of Oran 2     |  ORAN,ALGERIA (2023)
 
 
 **GPA 3.1/4.0**
