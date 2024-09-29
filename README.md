@@ -74,7 +74,7 @@
 
 
 
-   **Support Staff @40th edition og the men's and women's african club cup 2024 (HANDBALL)**
+  **Support Staff @40th edition og the men's and women's african club cup 2024 (HANDBALL)**
 
 -Support Staff 
 
@@ -87,7 +87,7 @@
 
 
   
- **Founder of DevCrafters**
+  **Founder of DevCrafters**
 
  
  At DevCrafters
