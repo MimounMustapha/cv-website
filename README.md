@@ -4,7 +4,7 @@
 
 ## 💼 Work Experience
 
-**Re-seller @Mahfoud Auto Parts Store**
+**- Re-seller @Mahfoud Auto Parts Store**
 
 (_Auto Parts re-seller for 4 years_)
 
