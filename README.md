@@ -1,6 +1,6 @@
 # Web Developer
 
-#### Technical Skills: Python, SQL, Tableau, Web Design 
+#### Technical Skills: Python, SQL, Tableau, Web Design , HTML , CSS 
 
 ## 💼 Work Experience
 
@@ -123,7 +123,7 @@ It is a platform for registering people and issuing their accreditations used in
 electronic platform is used to calculate the percentage of participants in the electoral process
 
 
-## 🎓 Education
+#### 🎓 Education
  Literature and philosophy   | **BACCALAUREATE DEGREE** |  Abdelmajid Meziane High School | ORAN,ALGERIA  (2020)
 
 
