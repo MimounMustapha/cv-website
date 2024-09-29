@@ -128,7 +128,6 @@ Asked reasonable questions and answered them with data. Many technologies have b
 ## 🎓 Education
  Literature and philosophy | **BACCALAUREATE DEGREE** |  Abdelmajid Meziane High School | ORAN,ALGERIA  (2020)
 
- 
  Law | **BACHELOR'S DEGREE** | University of Oran 2 | ORAN,ALGERIA (2023)
 
 
