@@ -4,7 +4,7 @@
 
 ## 💼 Work Experience
 
-**- Re-seller @Mahfoud Auto Parts Store**
+** Re-seller @Mahfoud Auto Parts Store**
 
 (_Auto Parts re-seller for 4 years_)
 
@@ -85,12 +85,21 @@
 
   (_ 2024 _)
 
+
   
+ **Founder of DevCrafters**
+ At DevCrafters
+we are dedicated to transforming innovative ideas into cutting-edge digital solutions. Our team of developers, designers, work collaboratively to create custom software, web applications, and mobile solutions tailored to meet the unique needs of our clients.
+Whether you're a startup looking to launch your first product or an established business aiming to streamline your operations, DevCrafters is here to help you navigate the digital landscape with confidence.
+
+DevCrafters is DEV COMPANY 
+
+
 
 
 ## 📜 Certificates
 
-### [Advanced Data Analysis Nanodegree - Udacity](https://confirm.udacity.com/AKTCERKS).
+### [DIGITAL MARKETING - GOOGLE ][(https://drive.google.com/file/d/1wZEoa7Y3FkTDZYdX2spCSoetMkG18NLK/view?usp=drivesdk)].
 
 - Obtained valuable experience in data analysis and visualization
 - Gained proficiency in using statistical methods and tools such as Python, SQL, and Tableau.
