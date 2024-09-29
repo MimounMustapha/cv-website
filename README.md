@@ -125,7 +125,8 @@ electronic platform is used to calculate the percentage of participants in the e
 
 ## 🎓 Education
  Literature and philosophy   | **BACCALAUREATE DEGREE** |  Abdelmajid Meziane High School | ORAN,ALGERIA  (2020)
-##
+
+
  Law | **BACHELOR'S DEGREE** | University of Oran 2     |  ORAN,ALGERIA (2023)
 
 
