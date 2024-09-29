@@ -99,7 +99,7 @@ DevCrafters is DEV COMPANY
 
 ## 📜 Certificates
 
-### [DIGITAL MARKETING - GOOGLE ][(https://drive.google.com/file/d/1wZEoa7Y3FkTDZYdX2spCSoetMkG18NLK/view?usp=drivesdk)].
+### [DIGITAL MARKETING - GOOGLE ](https://drive.google.com/file/d/1wZEoa7Y3FkTDZYdX2spCSoetMkG18NLK/view?usp=drivesdk).
 
 - Obtained valuable experience in data analysis and visualization
 - Gained proficiency in using statistical methods and tools such as Python, SQL, and Tableau.
