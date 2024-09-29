@@ -8,11 +8,17 @@
 
 (_Auto Parts re-seller for 4 years_)
 
+
+
+
 **Volunteer @Mediterranean Games 2022**
 
 -Volunteer Commission Accredititation 
 
 (_ 18/03/2021 - 15/03/2022 _) 
+
+
+
 
 **Support Staff @Mediterranean Games 2022**
 
@@ -23,6 +29,9 @@
 
 (_ 15/04/2022 - 15/07/2022 _) 
 
+
+
+
 **Support Staff @African Nations Championship**
 
 -Support Staff Commission Accredititation
@@ -32,9 +41,11 @@
 - Supervised a team of admnistrative Staff
 - Providing guidance support to ensure successful completion of tasks
 
-  (_ 12/11/2022 - 06/02/2023 _) 
+  (_ 12/11/2022 - 06/02/2023 _)
 
 
+
+  
 **Support Staff @Arabic Games 2023**
 
 -Support Staff Commission Accredititation
@@ -47,6 +58,8 @@
   (_ 15/06/2022 - 28/07/2023 _)
 
 
+
+
   **Support Staff @31st edition of the african super cup 2024 (HANDBALL)**
 
 -Support Staff 
@@ -57,6 +70,8 @@
 - Providing guidance support to ensure successful completion of tasks
 
   (_ 2024 _)
+
+
 
 
    **Support Staff @40th edition og the men's and women's african club cup 2024 (HANDBALL)**
