@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Tableau, Web Design 
 
 ## 💼 Work Experience
-**Data Engineer @Confidential**
+**Re-seller @Mahfoud Auto Parts Store**
 
 (_AUG2022 - PRESENT_)
 - Analyzed and organized raw data 
