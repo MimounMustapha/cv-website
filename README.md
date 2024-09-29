@@ -1,6 +1,6 @@
 # Web Developer
 
-#### Technical Skills: Python, SQL, Tableau, PowerBI
+#### Technical Skills: Python, SQL, Tableau, Web Design 
 
 ## 💼 Work Experience
 **Data Engineer @Confidential**
