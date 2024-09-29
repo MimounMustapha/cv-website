@@ -5,9 +5,20 @@
 ## 💼 Work Experience
 **Re-seller @Mahfoud Auto Parts Store**
 
-(_AUG2022 - PRESENT_)
-- Analyzed and organized raw data 
-- Built data systems and pipelines.
+(_Auto Parts re-seller for 4 years_)
+
+**Volunteer @Mediterranean Games 2022**
+-Volunteer Commission Accredititation 
+(_ 18/03/2021 - 15/03/2022 _) 
+
+**Support Staff @Mediterranean Games 2022**
+-Support Staff Commission Accredititation
+
+- Provided technical support to staff and visitors
+- Troubleshooting hardware and software issues
+(_ 15/04/2022 - 15/07/2022 _) 
+  
+
 
 ## 📜 Certificates
 
