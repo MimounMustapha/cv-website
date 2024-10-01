@@ -2,6 +2,11 @@
 
 #### Technical Skills: Python, SQL, Tableau, Web Design , HTML , CSS 
 
+## ☎️ 0782028751 / 0671570619
+## 📧 aminemimoun28@gmail.com
+## 📧 devcrafters@proton.com
+
+
 ## 💼 Work Experience
 
 **Re-seller @Mahfoud Auto Parts Store**
